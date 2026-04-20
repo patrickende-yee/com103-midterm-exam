@@ -64,6 +64,7 @@ else:
     project_status = "NEEDS MORE WORK!"
 
 # print project board
+print("\nGenerating project report...")
 print("\n========================================")
 print(f"{project_title} -- TASK BOARD")
 print("========================================")
