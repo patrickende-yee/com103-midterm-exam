@@ -1,3 +1,4 @@
+# com103 midterm exam: task tracker system
 tasks = [
     ("Program Logic / Coding ", "6h"),
     ("UI / Output Formatting ", "3h"),
